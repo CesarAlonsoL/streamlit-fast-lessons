@@ -1,0 +1,3 @@
+user_id,lesson_id,lesson_name,profession_name,current_lesson_datetime,next_lesson_id,next_lesson_datetime,delta_seconds,date
+2659,307,lesson - 307,data-analyst,2020-04-05 16:30:16.767984042,864,2020-04-05 16:30:18.250580394,1.483,2020-04-05
+10980,997,lesson - 997,data-analyst,2020-04-10 10:10:00.274640000,995,2020-04-10 10:10:03.208472000,2.934,2020-04-10
